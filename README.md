@@ -1,5 +1,9 @@
 # corrosioncomputers.org
 
+<p align="center">
+  <img src=".github/logo.png" alt="www.corrosioncomputers.org logo" width="128" />
+</p>
+
 The site of Corrosion Computers Services.
 
 ## Contents
